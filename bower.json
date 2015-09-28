@@ -1,0 +1,13 @@
+{
+  "name": "linkheader-parser",
+  "description": "Parser for RFC 5988 link headers",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jcassee/linkheader-parser",
+  "license": "MIT",
+  "main": "dist/linkheader-parser-browser.js",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    ".travis.yml"
+  ]
+}
