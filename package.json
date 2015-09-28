@@ -1,7 +1,7 @@
 {
   "name": "linkheader-parser",
   "description": "Parser for RFC 5988 link headers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": "https://github.com/jcassee/linkheader-parser",
   "license": "MIT",
   "main": "dist/linkheader-parser-node.js",
