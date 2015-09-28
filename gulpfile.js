@@ -1,6 +1,7 @@
 'use strict';
 
 var gulp = require('gulp'),
+  batch  = require('gulp-batch'),
   peg    = require('gulp-peg'),
   rename = require('gulp-rename'),
   watch  = require('gulp-watch');
