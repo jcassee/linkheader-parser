@@ -5,6 +5,7 @@
   "repository": "https://github.com/jcassee/linkheader-parser",
   "license": "MIT",
   "main": "dist/linkheader-parser-node.js",
+  "main": "dist/linkheader-parser-browser.js",
   "devDependencies": {
     "gulp": "^3.9",
     "gulp-batch": "^1.0",
